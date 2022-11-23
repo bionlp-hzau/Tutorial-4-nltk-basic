@@ -1,4 +1,4 @@
-# nltk-basic
+# Tutorial for nltk-basic
 
 This is a basic tutorial for nltk usage.
 The contents includes:
